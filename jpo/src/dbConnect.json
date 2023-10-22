@@ -1,0 +1,7 @@
+{
+    "db_name":"annuaire_nws",
+    "host":"127.0.0.1",
+    "username":"cihan",
+    "password":"root",
+    "port":3306
+}
